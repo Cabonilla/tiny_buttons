@@ -1,17 +1,27 @@
 import './App.css';
+import NeonButton from './components/NeonButton';
 
 function App() {
   return (
     <div className="App">
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
-      <div className="buttonSquare">Hello, Laverne</div>
+      <div className="buttonSquare">
+        <NeonButton/>
+      </div>
+      <div className="buttonSquare">
+        <div class="centeredButton">Hello</div>
+      </div>
+      <div className="buttonSquare">
+        <div class="centeredButton">Hello</div>
+      </div>
+      <div className="buttonSquare">
+        <div class="centeredButton">Hello</div>
+      </div>
+      <div className="buttonSquare">
+        <div class="centeredButton">Hello</div>
+      </div>
+      <div className="buttonSquare">
+        <div class="centeredButton">Hello</div>
+      </div>
     </div>
   );
 }
