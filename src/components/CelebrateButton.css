@@ -1,0 +1,28 @@
+.container {
+	position: block;
+}
+
+.hide {
+	display: none;
+}
+
+svg {
+	left: 0;
+	top: 100px;
+	z-index: -1;
+	margin-top: 1em;
+}
+
+.lottiebutton {
+	z-index: 1;
+	align-self: center;
+	justify-self: center;
+	position: absolute;
+}
+
+.lottie {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import CelebrateButton from './components/CelebrateButton';
 import NeonButton from './components/NeonButton';
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
         <NeonButton/>
       </div>
       <div className="buttonSquare">
-        <div class="centeredButton">Hello</div>
+        <CelebrateButton/>  
       </div>
       <div className="buttonSquare">
         <div class="centeredButton">Hello</div>
