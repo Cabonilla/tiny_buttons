@@ -2,7 +2,11 @@ import React from 'react'
 import styles from './NeonButton.module.css'
 
 const neonButton = () => {
-  return <button className={styles.button}>Hello, Laverne</button>
+  return (
+    <div className={styles.background}>
+      <a className={styles.button}>Click Me</a>
+    </div>
+  )
 }
 
 export default neonButton
