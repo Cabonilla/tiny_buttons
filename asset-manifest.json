@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tiny_buttons/static/css/main.a3adb5ef.chunk.css",
-    "main.js": "/tiny_buttons/static/js/main.77244d4d.chunk.js",
-    "main.js.map": "/tiny_buttons/static/js/main.77244d4d.chunk.js.map",
+    "main.css": "/tiny_buttons/static/css/main.f4b0ce5f.chunk.css",
+    "main.js": "/tiny_buttons/static/js/main.ebeb7483.chunk.js",
+    "main.js.map": "/tiny_buttons/static/js/main.ebeb7483.chunk.js.map",
     "runtime-main.js": "/tiny_buttons/static/js/runtime-main.eeb31cb1.js",
     "runtime-main.js.map": "/tiny_buttons/static/js/runtime-main.eeb31cb1.js.map",
-    "static/js/2.09af7cac.chunk.js": "/tiny_buttons/static/js/2.09af7cac.chunk.js",
-    "static/js/2.09af7cac.chunk.js.map": "/tiny_buttons/static/js/2.09af7cac.chunk.js.map",
+    "static/js/2.02d3d067.chunk.js": "/tiny_buttons/static/js/2.02d3d067.chunk.js",
+    "static/js/2.02d3d067.chunk.js.map": "/tiny_buttons/static/js/2.02d3d067.chunk.js.map",
     "index.html": "/tiny_buttons/index.html",
-    "static/css/main.a3adb5ef.chunk.css.map": "/tiny_buttons/static/css/main.a3adb5ef.chunk.css.map",
-    "static/js/2.09af7cac.chunk.js.LICENSE.txt": "/tiny_buttons/static/js/2.09af7cac.chunk.js.LICENSE.txt"
+    "static/css/main.f4b0ce5f.chunk.css.map": "/tiny_buttons/static/css/main.f4b0ce5f.chunk.css.map",
+    "static/js/2.02d3d067.chunk.js.LICENSE.txt": "/tiny_buttons/static/js/2.02d3d067.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eeb31cb1.js",
-    "static/js/2.09af7cac.chunk.js",
-    "static/css/main.a3adb5ef.chunk.css",
-    "static/js/main.77244d4d.chunk.js"
+    "static/js/2.02d3d067.chunk.js",
+    "static/css/main.f4b0ce5f.chunk.css",
+    "static/js/main.ebeb7483.chunk.js"
   ]
 }
